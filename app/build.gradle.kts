@@ -45,6 +45,6 @@ dependencies {
 
     // Implementación de Retrofit (cliente para hacer peticiones HTTP)
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
-    // Implementación de GSON (para convertir JSON a objetos)
-    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    // Conversor de JSON a Strings
+    implementation("com.squareup.retrofit2:converter-scalars:2.9.0")
 }
