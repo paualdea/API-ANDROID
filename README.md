@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación Android sencilla desarrollada como parte de la **Actividad 2: "Consumo de una API REST con Retrofit"** de la Unidad 3 del curso de **Programación Multimedia y Dispositivos Móviles**.
 
+Simula una aplicación del tiempo y devuelve el estado del tiempo, nombre de la ciudad y temperatura de la misma. Las ciudades se escogen estáticamente (si se quieren modificar hay que editar el _array_ `datos`).
+
 El objetivo principal es poner en práctica la comunicación con una API con `Retrofit`, la implementación de un RecyclerView para mostrar los resultados que obtengamos y el manejo y muestre de errores.
 
 
